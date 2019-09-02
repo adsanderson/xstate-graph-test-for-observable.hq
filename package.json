@@ -1,0 +1,25 @@
+{
+  "name": "xstate-graph-test-for-observable.hq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adsanderson/xstate-graph-test-for-observable.hq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adsanderson/xstate-graph-test-for-observable.hq/issues"
+  },
+  "homepage": "https://github.com/adsanderson/xstate-graph-test-for-observable.hq#readme",
+  "dependencies": {
+    "@xstate/graph": "^0.2.1",
+    "@xstate/test": "^0.1.0",
+    "xstate": "^4.6.7"
+  }
+}
